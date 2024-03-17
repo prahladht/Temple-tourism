@@ -1,0 +1,94 @@
+
+.bg-container {
+    background-image: url("https://img.freepik.com/free-photo/lagoon-white-ocean-summer-sand_1203-5354.jpg?w=1060&t=st=1667617767~exp=1667618367~hmac=0d465ac38d6d4a9c667fba4c62447bf2d896145ce2dd7231c4d489c1e79b56f7");
+    height: 100vh;
+    background-size: cover;
+
+}
+
+.big-card {
+    background-color: white;
+    text-align: center;
+    padding: 10px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+
+}
+
+.button {
+    background-color: black;
+    border-radius: 10px;
+    border-width: 0px;
+    color: white;
+}
+
+.bg-favourite-container {
+    background-image: url("https://img.freepik.com/free-photo/lagoon-white-ocean-summer-sand_1203-5354.jpg?w=1060&t=st=1667617767~exp=1667618367~hmac=0d465ac38d6d4a9c667fba4c62447bf2d896145ce2dd7231c4d489c1e79b56f7");
+    height: 100vh;
+    background-size: cover;
+}
+
+.favourite-card {
+    background-color: white;
+    border-radius: 8px;
+    padding: 5px;
+    margin: 10px;
+
+}
+
+.favourite-main-heading {
+    font-family: "roboto";
+    font-size: 25px;
+    font-weight: bold;
+    padding: 16px;
+}
+
+.small-heading {
+    font-family: "roboto";
+    font-size: 20px;
+    font-weight: bold;
+
+}
+
+.small-para {
+    font-family: "roboto";
+    font-size: 13px;
+}
+
+.image-card {
+    height: 90px;
+    width: 90px;
+}
+
+.bg-container {
+    background-image: url("https://img.freepik.com/free-photo/lagoon-white-ocean-summer-sand_1203-5354.jpg?w=1060&t=st=1667617767~exp=1667618367~hmac=0d465ac38d6d4a9c667fba4c62447bf2d896145ce2dd7231c4d489c1e79b56f7");
+    height: 100vh;
+    background-size: cover;
+}
+
+.detail-view-card {
+    margin: 30px;
+    background-color: white;
+    border-radius: 10px;
+
+}
+
+.big-heading {
+    font-family: "roboto";
+    font-size: 22px;
+    font-weight: bold;
+    padding: 15px;
+}
+
+.main-heading {
+    font-family: "roboto";
+    font-size: 22px;
+    font-weight: bold;
+    padding: 5px;
+}
+
+.para {
+    font-family: "roboto";
+    font-size: 12px;
+    padding: 8px;
+}
